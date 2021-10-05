@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "assignment-tracker-be059"
+  },
+  "targets": {
+    "assignment-tracker-be059": {
+      "hosting": {
+        "trackmyassignments": [
+          "trackmyassignments"
+        ]
+      }
+    }
+  }
+}
