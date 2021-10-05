@@ -1,6 +1,7 @@
 # Assignment Tracker
 
 Tracking assignments that need to be done by their due date.
+Made using Flutter Web.
 
 Available at https://assignment-tracker-be059.web.app/
 
